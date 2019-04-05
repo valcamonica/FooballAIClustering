@@ -1,1 +1,2 @@
-print("Laura + Rovere")
+while True:
+	print("Laura + Rovere")
