@@ -1,2 +1,1 @@
-while True:
-	print("Laura + Rovere")
+print("Laura + Rovere")
